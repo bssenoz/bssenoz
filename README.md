@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Buse <img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU0NzkzNzIsIm5iZiI6MTcwNTQ3OTA3MiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTE3VDA4MTExMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI4ZjBkNTMyZDZmOTU2OWU0ZjY1NDE4M2Q2MGUyNDQ4ZGY0MWEwZjU2YjU3ZDE3NTY0Yzc3MDUwYThlNTI3NjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Sh2r_pc-uViX2ZR28VbFMGg5vEe0GurD5ugYxq2RyMI" width="40" alt="hi" /></h1> 
+<h1 align="center">Hi, I'm Buse  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="40"></h1>  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bssenoz&label=Profile%20views&color=0e75b6&style=flat" alt="bssenoz" /> </p>
 
 <h3 align="left"> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" /> Connect with me:</h3>
